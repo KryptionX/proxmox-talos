@@ -1,0 +1,4 @@
+proxmox_endpoint = "https://proxmox_url"
+api_token        = "root@pam!Terraform=TOKEN"
+private_key      = "~/.ssh/proxmox_key"
+worker_count     = 1
